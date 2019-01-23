@@ -1,0 +1,1 @@
+directory = '/home/jrjflei/snap/telegram-desktop/common/Downloads/Telegram Desktop/ChatExport_13_11_2018'
